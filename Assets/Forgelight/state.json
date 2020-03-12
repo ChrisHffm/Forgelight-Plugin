@@ -1,0 +1,13 @@
+{
+  "extension": {
+    "version": "1.0",
+    "update_url": "http://blackfeatherproductions.com/version.txt"
+  },
+  "forgelight_games": {
+    "Game": {
+      "pack_directory": "C:/Users/Chris/Desktop/Game/Resources/Assets",
+      "resource_directory": "C:/Users/Chris/Documents/H1Z1/Assets/Resources/Game",
+      "is_active_game": true
+    }
+  }
+}
